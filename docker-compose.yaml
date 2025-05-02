@@ -5,4 +5,4 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - "C:/Users/User/OneDrive/Documentos/GitHub/Marketing-Predictivo/:/home/jovyan/Marketing-Predictivo"
+      - "C:/Users/User/OneDrive/Documentos/GitHub/Marketing-Predictivo/CSV:/home/jovyan/Marketing-Predictivo/CSV"
